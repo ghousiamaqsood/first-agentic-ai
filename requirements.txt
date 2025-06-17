@@ -146,3 +146,4 @@ webcolors>=24.11
 webencodings>=0.5
 websocket-client>=1.8
 Werkzeug>=3.1
+python-dotenv==1.0.1
