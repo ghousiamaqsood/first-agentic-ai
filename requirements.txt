@@ -101,10 +101,10 @@ pyinstaller>=6.13
 pyinstaller-hooks-contrib>=2025.4
 pyparsing>=3.2
 python-dateutil>=2.9
-python-dotenv>=1.0
+python-dotenv==1.0.1
 python-json-logger>=3.3
 pytz>=2025.2
-pywin32>=306  # 310 unavailable, 306 is safe
+pywin32>=306
 pywin32-ctypes>=0.2
 pywinpty>=2.0
 PyYAML>=6.0
@@ -145,4 +145,3 @@ webcolors>=24.11
 webencodings>=0.5
 websocket-client>=1.8
 Werkzeug>=3.1
-python-dotenv==1.0.1
