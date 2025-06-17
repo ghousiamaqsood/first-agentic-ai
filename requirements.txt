@@ -26,7 +26,6 @@ debugpy>=1.8
 decorator>=5.2
 defusedxml>=0.7
 distro>=1.9
-dotenv>=0.9
 executing>=2.2
 fastjsonschema>=2.21
 Flask>=3.1
